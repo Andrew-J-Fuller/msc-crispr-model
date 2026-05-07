@@ -10,7 +10,7 @@ Independent systems/synth biology project exploring stressed-induced transcripti
 
 ### Current status
 - learning git
-- studying network models (boolean networks)
+- studying network models (ODE networks)
 
 ### Road map
 
