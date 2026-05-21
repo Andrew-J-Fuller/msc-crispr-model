@@ -4,17 +4,26 @@
 Independent systems/synth biology project exploring stressed-induced transcriptional state shifts in mesenchymal stem cells during CRISPR-Cas9 delivery.
 
 ### Goals
-- Build a minimal regulatory network model
-- Simulate stress perturbations
-- Identify state-stability thresholds
+1. Publish a novel model/*in silico* hypothesis that could be tested surrounding stress from CRISPR-Cas9 delivery in mesenchymal stem cells
+2. collaborate with a lab for data/wet lab confirmation of a model's accuracy/effectiveness
+3. Write up a comprehensive outline of the model
+4. Polish a robust mesenchymal stem cell model (mutipotency?)
+5. Create a working prototype for mesenchymal stem cell model (choose a paradigm)
+6. transition into models using multiple paradigms
+7. polish a novel model (potentially collaborate to further robustify)
+8. transition into creating original GRN model
 
 ### Current status
-- learning git
-- studying network models (ODE networks)
+- learning more about python
+- learning more about modeling GRNS
+- brushing up on my ODE understandings
 
-### Road map
 
-1. Learn how to create boolena network models
-2. reproduce small published GRN
-3. Add CRISPR stress variables
-4. Analyze computed thresholds
+### Actions
+- [ ] reproduce the repressilator
+- [ ] Simulate stress perturbations
+- [ ] Identify state-stability thresholds
+
+### COMPLETED *yesss*
+
+- [x] Build a minimal regulatory network model
