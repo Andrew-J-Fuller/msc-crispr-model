@@ -19,11 +19,12 @@ Independent systems/synth biology project exploring stressed-induced transcripti
 - brushing up on my ODE understandings
 
 
-### Actions
-- [ ] reproduce the repressilator
+### Action
 - [ ] Simulate stress perturbations
-- [ ] Identify state-stability thresholds
+- [ ] Try a different paradigm
+- [ ] Build novel model
 
-### COMPLETED *yesss*
+### COMPLETED
 
+- [x] reproduce the repressilator
 - [x] Build a minimal regulatory network model
