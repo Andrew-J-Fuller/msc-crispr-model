@@ -3,6 +3,21 @@
 
 Independent systems/synth biology project exploring stressed-induced transcriptional state shifts in mesenchymal stem cells during CRISPR-Cas9 delivery.
 
+### Current status
+- learning more about python
+- learning more about modeling GRNS
+- desinging software scientists with large datasets can use
+
+
+### Action
+- [ ] Simulate stress perturbations
+- [ ] Build novel model
+
+### COMPLETED
+- [x] build GRN tool to enable more complex networks
+- [x] reproduce the repressilator
+- [x] Build a minimal regulatory network model
+
 ### Goals
 1. Publish a novel model/*in silico* hypothesis that could be tested surrounding stress from CRISPR-Cas9 delivery in mesenchymal stem cells
 2. collaborate with a lab for data/wet lab confirmation of a model's accuracy/effectiveness
@@ -12,19 +27,3 @@ Independent systems/synth biology project exploring stressed-induced transcripti
 6. transition into models using multiple paradigms
 7. polish a novel model (potentially collaborate to further robustify)
 8. transition into creating original GRN model
-
-### Current status
-- learning more about python
-- learning more about modeling GRNS
-- brushing up on my ODE understandings
-
-
-### Action
-- [ ] Simulate stress perturbations
-- [ ] Try a different paradigm
-- [ ] Build novel model
-
-### COMPLETED
-
-- [x] reproduce the repressilator
-- [x] Build a minimal regulatory network model
