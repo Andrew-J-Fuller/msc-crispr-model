@@ -1,0 +1,4 @@
+gene name,targets,alpha,naught,beta
+laci,[{"tetr":"rep"}],216,0.216,0.2
+tetr,[{"ci":"rep"}],216,0.216,0.2
+ci,[{"laci":"rep"}],216,0.216,0.2
